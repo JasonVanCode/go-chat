@@ -1,12 +1,6 @@
 ## GO-CHAT
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<br/>
-<br/>
-
 > 这是一个由golang编写的在线聊天 (项目开发中，可以用postman测试websockert 私聊 以及 离线消息同步 )
 
 #### 支持以下功能
